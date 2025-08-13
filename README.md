@@ -3,7 +3,7 @@
 Projeto de exemplo para consulta de CPF utilizando a **API CPF Brasil**  
 Compatível com **Delphi 11** e **Lazarus 4.0**, permitindo consultas de forma simples e estruturada.
 
-🔗 **Plataforma da API e obter TOKEN:** [https://aurino.com.br/consultacpf](https://aurino.com.br/consultacpf)
+## 🔗 **Plataforma da API e obter TOKEN:** [https://aurino.com.br/consultacpf](https://aurino.com.br/consultacpf)
 
 ---
 
