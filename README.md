@@ -22,13 +22,14 @@ Compatível com **Delphi 11** e **Lazarus 4.0**, permitindo consultas de forma s
 - ✅ Disponível: Delphi XE8, 10 Seattle, 10.1 Berlin, 10.2 Tokyo, 10.3 Rio, 10.4 Sydney, 11 Alexandria, 12 Athenas.
 - Unit `System.Net.HttpClient` (nativo no Delphi).
 - ❌ Não disponível nativamente: Delphi XE7 ou anteriores (nessas, você teria que usar Indy (TIdHTTP) ou componentes de terceiros).
-<img width="593" height="369" alt="image" src="https://github.com/user-attachments/assets/ea3fe908-c629-4434-a8e0-0f8762f28254" />
+<img width="566" height="370" alt="image" src="https://github.com/user-attachments/assets/256a193f-f0ab-4e7a-9979-a21965fbf3f4" />
 
 ### Lazarus
 -  Lazarus FPC 2.x+ até Lazarus 4.0;
 - Pacote `fphttpclient` (nativo no FPC).
 - Unit `fpjson` e `jsonparser` para tratamento do JSON.
-<img width="566" height="370" alt="image" src="https://github.com/user-attachments/assets/256a193f-f0ab-4e7a-9979-a21965fbf3f4" />
+<img width="593" height="369" alt="image" src="https://github.com/user-attachments/assets/ea3fe908-c629-4434-a8e0-0f8762f28254" />
+
 
 ---
 
