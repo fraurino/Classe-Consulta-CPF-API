@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units>
+      <Unit>
+        <Filename Value="ConsultaCPF.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uconsultacpf.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmConsultaCPF"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uConsultaCPF"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="49"/>
+        <CursorPos X="65" Y="79"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="84"/>
+        <CursorPos X="59" Y="93"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="104"/>
+        <CursorPos X="23" Y="125"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="uconsultacpf.pas"/>
+        <Caret Line="43" Column="39" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="58" Column="50" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="63" Column="36" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="54" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="64" Column="58" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="192" Column="44" TopLine="176"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="81" Column="69" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="84" Column="72" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="71" Column="25" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="65" Column="16" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="143" Column="5" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="223" Column="33" TopLine="203"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="144" TopLine="120"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="138" Column="7" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="72" Column="49" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="97" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="130" Column="7" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="uconsultacpf.pas"/>
+        <Caret Line="78" Column="33" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="71" Column="11" TopLine="72"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="126" Column="7" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="55" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="68" Column="48" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="69" Column="10" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="83" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="129" Column="7" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="13" Column="66"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="71" Column="26" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="78" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="..\classe\CpfBrasilOrg.pas"/>
+        <Caret Line="163" Column="5" TopLine="123"/>
+      </Position>
+      <Position>
+        <Filename Value="uconsultacpf.pas"/>
+        <Caret Line="79" Column="63" TopLine="49"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
